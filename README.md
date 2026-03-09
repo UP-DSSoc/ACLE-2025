@@ -1,7 +1,13 @@
 
 
+
 # Huwag KuKURAP: Probing Public Records with Data Science
 ### **UP Data Science Society | ACLE 2026 Workshop**
+
+<p align="center">
+  <img width="800" alt="ACLE 2526 DSSoc Poster compressed"
+  src="https://github.com/user-attachments/assets/2f4b5004-7f51-420e-9bb9-4e6b8dd772ba" />
+</p>
 
 ---
 
