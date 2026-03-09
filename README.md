@@ -29,6 +29,6 @@ The analysis is based on data sourced from the **Open Data Portal by BetterGov.p
 ---
 
 ## **Credits**
-Developed and organized by the **UP Data Science Society (UP DSS)** for the 2026 Alternative Classroom Learning Experience (ACLE) of UP Diliman. 
+Developed and organized by the **UP Data Science Society (UP DSSoc)** for the 2026 Alternative Classroom Learning Experience (ACLE) of UP Diliman. 
 
 *For a more transparent and data-driven future.*
